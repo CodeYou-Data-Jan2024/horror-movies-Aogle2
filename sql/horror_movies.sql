@@ -17,3 +17,5 @@ ORDER BY Rating DESC
 --Only show the 3 result, nothing more.
 LIMIT 3;
 
+--This should give us what we need.
+
